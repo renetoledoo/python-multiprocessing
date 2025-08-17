@@ -1,6 +1,6 @@
 # 🐍 Python Multiprocessamento – Aumento de Performance
 
-Exemplo de cálculo pesado em Python e análise de performance.  
+Exemplo de cálculo em Python e análise de performance.  
 
 ![Python](https://img.shields.io/badge/python-3.10-blue?logo=python&logoColor=white)
 ![Performance](https://img.shields.io/badge/performance-high-green)
